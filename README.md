@@ -1,1 +1,3 @@
 # Meta_Data-Science-
+
+Meta Project is a leading meteverse shopping mall platfrom which is aim to harness the soaring popularity of online shopping. By tackling challenges from both online and offline store, we are targetting to provide a efficient and accessible shopping mechanism to our expanding customers. Recently, we created an website about our meta data science team which it shows information and accomplishments of our group. Also, we provided an data visualization dashboard that mainly shows consumer distribution, satisfaction zone, montly activity, question frequency, and daily user activity regarding customers using Meta. This various information provides data and information to future creators that are willing to innovate Meta. 
